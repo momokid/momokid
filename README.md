@@ -1,13 +1,15 @@
 ### Hi there 👋
 
-I am Anwar Sadat Ayub, a full stack developer currently working at Prime Survivors International Ltd.
+I am Anwar Sadat Ayub, a full stack developer.
+
+- 🔭 I’m currently project for Rais-Meena Restaurant
+- 🌱 I also contribute to the Mozilla Firefox Nightly
+
 <!--
 **momokid/momokid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-🔭 I’m currently project for Rais-Meena Restaurant
-- 🌱 I also contribute to the Mozilla Firefox Nightly
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
