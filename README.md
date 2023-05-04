@@ -2,7 +2,7 @@
 
 I am Anwar Sadat Ayub, a full stack developer.
 
-- 🔭 I’m currently project for Rais-Meena Restaurant
+- 🔭 I’m currently working on a project for Rais-Meena Restaurant
 - 🌱 I also contribute to the Mozilla Firefox Nightly
 
 <!--
