@@ -2,8 +2,9 @@
 
 I am Anwar Sadat Ayub, a full stack developer.
 
-- 🔭 I’m currently working on a project for Rais-Meena Restaurant
-- 🌱 I also contribute to the Mozilla Firefox Nightly
+- 🔭 I’m currently working on a project for Restaurant app for taking online orders.
+- 🌱 I also contribute to the Mozilla Firefox Nightly Open Source Project.
+- 🤵 I am also a TA at Wisconsin International University College.
 
 <!--
 **momokid/momokid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
