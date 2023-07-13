@@ -3,7 +3,7 @@
 I am Anwar Sadat Ayub, a full stack developer.
 
 - 🔭 I’m currently working on a project for Restaurant app for taking online orders.
-- 🌱 I also contribute to the Mozilla Firefox Nightly Open Source Project.
+- 🌱 I contribute to the Mozilla Firefox Nightly Open Source Project.
 - 🤵 I am also a TA at Wisconsin International University College.
 
 <!--
