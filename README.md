@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-I am Anwar Sadat Ayub, a full stack developer.
+Call me Anwar, if not then  Sadat.
 
 - 🔭 I’m currently working on a project for Restaurant app for taking online orders.
 - 🌱 I contribute to the Mozilla Firefox Nightly Open Source Project.
