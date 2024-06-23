@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Anwar Sadat, a techinal writer 📝👨🏿‍💻
+I am Anwar Sadat, a techicnal writer 📝👨🏿‍💻
 
 <!--
 **momokid/momokid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
